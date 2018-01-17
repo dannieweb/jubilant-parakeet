@@ -23,3 +23,5 @@ function runTheClock() {
 }
 
 var interval = setInterval(runTheClock, 1000);
+
+//Turned off animation transition because I like the second counter.
